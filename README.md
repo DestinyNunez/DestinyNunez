@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Destiny!</h1>
+<h1 align="center">Hi 👋  I'm Destiny!</h1>
 <h3 align="center">Full Stack Software Engineer, Based out of Boston, MA</h3>
 
 - 🌱 I’m currently learning **Node.js**
