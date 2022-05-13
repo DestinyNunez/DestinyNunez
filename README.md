@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋  I'm Destiny!</h1>
 <h3 align="center">Full Stack Software Engineer, Based out of Boston, MA</h3>
 
+<p align="center" width="100%">
+    <img width="100%" src="https://user-images.githubusercontent.com/88361309/168206217-fa8004bd-a775-43f8-bd3e-21fd2bfac6f2.jpeg">
+</p>
+
+
 - 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://destinynunez.netlify.app/](https://destinynunez.netlify.app/)
