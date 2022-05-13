@@ -1,6 +1,6 @@
 <h1 align="center"> :sparkles: Hey, I'm Dee! :sparkles:</h1>
 <h3 align="center">Full Stack Software Engineer ~ Based out of Boston, MA</h3>
-<h4 align="center">Puerto Rican :sun_with_face: ~ Lover of all things nature :herb: ~ Sunset Connoisseur :sunrise: </h4>
+<h4 align="center">Puerto Rican :sun_with_face: ~ Lover of all things nature :herb: ~ Cuisine Connoisseur :wine_glass: </h4>
 <p align="center" width="100%">
     <img width="100%" height="350px" src="https://user-images.githubusercontent.com/88361309/168207836-6d176c6d-3dd5-4959-b7b4-54f2877b095c.jpg">
 </p>
