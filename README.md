@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Software Engineer, Based out of Boston, MA</h3>
 
 <p align="center" width="100%">
-    <img height="350px" width="100%" src="https://user-images.githubusercontent.com/88361309/168207425-63e92f8b-2cda-4956-b10f-eead79bd4ae8.jpeg">
+    <img width="100%" height="350px" src="https://user-images.githubusercontent.com/88361309/168207836-6d176c6d-3dd5-4959-b7b4-54f2877b095c.jpg">
 </p>
 
 - 🌱 I’m currently learning **Node.js**
