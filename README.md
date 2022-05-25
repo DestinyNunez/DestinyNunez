@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://destinynunez.netlify.app/](https://destinynunez.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://destinynunez.netlify.app/](https://destinynunez.netlify.app)
 
 - 💬 Ask me about **Cooking, Plants and Conspiracy Theories**
 
