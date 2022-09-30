@@ -1,4 +1,4 @@
-<h1 align="center"> :sparkles: Hey, I'm Dee! :sparkles:</h1>
+<h1 align="center"> :sparkles: Hey, I'm Des! :sparkles:</h1>
 <h3 align="center">Full Stack Software Engineer 🧩 ~ Based out of Boston, MA</h3>
 <h4 align="center">Puerto Rican :sun_with_face: ~ Lover of All Things Nature :herb: ~ Cuisine Connoisseur :wine_glass: </h4>
 <p align="center" width="100%">
