@@ -5,7 +5,7 @@
     <img width="100%" height="350px" src="https://user-images.githubusercontent.com/88361309/168207836-6d176c6d-3dd5-4959-b7b4-54f2877b095c.jpg">
 </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://destinynunez.netlify.app/](https://destinynunez.netlify.app)
 
